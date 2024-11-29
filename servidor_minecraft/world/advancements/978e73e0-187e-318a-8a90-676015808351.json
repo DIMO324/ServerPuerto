@@ -1,0 +1,20 @@
+{
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-11-22 17:18:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "grove": "2024-11-22 17:18:11 -0500"
+    },
+    "done": false
+  },
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2024-11-22 17:18:11 -0500"
+    },
+    "done": true
+  }
+}
